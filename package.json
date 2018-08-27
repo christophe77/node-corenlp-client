@@ -1,0 +1,24 @@
+{
+  "name": "corenlp-client-multilang",
+  "version": "1.0.4",
+  "description": "Simple corenlp client to the corenlp http server using request-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "corenlp",
+    "client",
+    "nlp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christophe77/node-corenlp-client.git"
+  },
+  "author": "christophe77 <chrisb@gmx.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
